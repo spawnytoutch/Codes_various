@@ -1,0 +1,19 @@
+{
+  "name": "Codes_various",
+  "version": "1.0.0",
+  "description": "bloc-notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spawnytoutch/Codes_various.git"
+  },
+  "author": "divers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spawnytoutch/Codes_various/issues"
+  },
+  "homepage": "https://github.com/spawnytoutch/Codes_various"
+}
